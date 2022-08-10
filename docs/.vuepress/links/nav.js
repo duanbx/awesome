@@ -29,6 +29,6 @@ module.exports = [
   },
   {
     text: "GitHub",
-    link: "https://duanbx.github.io/awesome",
+    link: "https://github.com/duanbx/awesome",
   },
 ]
